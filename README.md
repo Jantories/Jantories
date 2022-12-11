@@ -1,6 +1,4 @@
-Im Jantory
-Im interested to rat people in Hypixel Skyblock
-Im currently learning C++ and Java
+currently learning C++ and Java
 
 <!---
 Jantories/Jantory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
